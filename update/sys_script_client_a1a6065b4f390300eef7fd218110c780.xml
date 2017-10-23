@@ -17,7 +17,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>dlorber</sys_created_by>
         <sys_created_on>2017-10-19 14:17:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a1a6065b4f390300eef7fd218110c780</sys_id>
